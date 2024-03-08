@@ -1,4 +1,4 @@
-# Alcohol_Sales_Forcasting
+# Alcohol_Sales_Forecasting
 
 # Alcohol Sales Forecasting with SARIMAX Model
 
